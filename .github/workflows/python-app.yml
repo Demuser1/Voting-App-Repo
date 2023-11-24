@@ -1,4 +1,4 @@
-name: Python Docker Workflow
+name: Voting-App-Image-4302474
 
 # Trigger the workflow on push or pull request events
 on: [push, pull_request]

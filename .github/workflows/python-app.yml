@@ -5,7 +5,7 @@ on: [push, pull_request]
 
 jobs:
   # Define the build and test job
-  build-and-test:
+  build:
     # Specify the runner environment
     runs-on: ubuntu-latest
     # Define the steps of the job

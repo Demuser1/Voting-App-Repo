@@ -6,9 +6,8 @@ import random
 import json
 import logging
 
-option_a = os.getenv('OPTION_A', "Cats")
+option_a = os.getenv('OPTION_A', "Catsss")
 option_b = os.getenv('OPTION_B', "Dogs")
-print("this change is commited with CI/CD Pipeline")
 hostname = socket.gethostname()
 
 app = Flask(__name__)
